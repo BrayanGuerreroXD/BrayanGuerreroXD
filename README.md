@@ -1,4 +1,17 @@
-### Hello I'm Brayan Guerrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello I'm Brayan Guerrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/code.gif" width="490" height="300"/>
+
+## 🚀 WEB AND IA DEVELOPER BEGINNER ##
+
+**About Me!**
+
+- I am a systems engineering student
+- Interested in web and artificial intelligence development
+- Ask me anything you want :3 
+- My email: [bg7047653@gmail.com](mailto:bg7047653@gmail.com).
+
+**Social Media**
 
 <a href="https://www.instagram.com/_besgo_/">
   <img align="left" alt="Brayan's Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
@@ -10,34 +23,21 @@
   <img align="left" alt="Brayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+<br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/code.gif" width="490" height="300"/>
+## ⚙ My stack technologies
+|Programming languages|Frontend|Dev Tools|
+|---|---|---|
+|![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E") |![HMTL5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white") ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white") ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
+
+|Platforms and Libraries|ML/DL|Desing
+|---|---|---|
+|![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)|![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)|
 
 <br />
 <br />
 
-***A WEB AND MOBILE DEVELOPER BEGINNER*** 🚀
-
-**About Me!**
-
-- Soy un estudiante de Ingenieria en Sistemas
-- Me interesa el desarrollo Web y Movil
-- Preguntame cualquier cosa :3 
-- Mi correo: [bg7047653@gmail.com](mailto:bg7047653@gmail.com).
-
-**Languages:**
-
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-**Tools:** 
-
-<code><img height="24" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<code><img height="24" src="https://img.icons8.com/color/48/000000/git.png"></code>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrayanGuerreroXD&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuerreroXD&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<div aling="center"><img alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/linea_ragab.gif" width="900"/></div>
+## 📈My statistics
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuerreroXD&show_icons=true&theme=tokyonight)](https://github.com/BrayanGuerreroXd/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanGuerreroXD&show_icons=true&theme=tokyonight)|
+|---|---|
