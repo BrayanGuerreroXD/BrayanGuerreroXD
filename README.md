@@ -11,7 +11,7 @@
 - I am a systems engineering student
 - Interested in web and artificial intelligence development
 - Ask me anything you want :3 
-- My email: [bg7047653@gmail.com](mailto:bg7047653@gmail.com).
+- My email: [bg7047653@gmail.com](mailto:brayanstewartguor@gmail.com).
 
 **Social Media**
 
