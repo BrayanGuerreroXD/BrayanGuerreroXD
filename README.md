@@ -4,12 +4,12 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/code.gif" width="490" height="300"/>
 
-## 🚀 WEB AND IA DEVELOPER BEGINNER ##
+## 🚀 WEB DEVELOPER ##
 
 **About Me!**
 
 - I am a systems engineering student
-- Interested in web and artificial intelligence development
+- Interested in web  development
 - Ask me anything you want :3 
 - My email: [brayanstewartguor@gmail.com](mailto:brayanstewartguor@gmail.com).
 
