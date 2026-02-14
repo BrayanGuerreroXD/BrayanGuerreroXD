@@ -1,42 +1,48 @@
-# Hello I'm Brayan Guerrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Brayan Guerrero 👋
 
-![@brayanguerrero's Holopin board](https://holopin.io/api/user/board?user=brayanguerrero)
+### 👨‍💻 Backend Software Engineer
+Dedicated Backend Engineer specializing in building robust, scalable APIs and microservices. Experienced in designing cloud-native architectures and optimizing database performance.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/code.gif" width="490" height="300"/>
+- 🔭 I currently work as a **Backend Software Engineer** with **Spring Boot** and **NestJS**
+- ☁️ Experienced with **AWS (EC2, S3, EventBridge, Kinesis) & Terraform**
+- 🌱 I’m currently learning **Python & Strands Agents**
+- 💬 Ask me about **Java, TypeScript, SQL, and Cloud Infrastructure**
 
-## 🚀 WEB DEVELOPER ##
+<br/>
 
-**About Me!**
+## 🛠️ Tech Stack
 
-- I am a systems engineering student
-- Interested in web  development
-- Ask me anything you want :3 
-- My email: [brayanstewartguor@gmail.com](mailto:brayanstewartguor@gmail.com).
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Social Media**
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-<a href="https://www.instagram.com/_besgo_/">
-  <img align="left" alt="Brayan's Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+> **Cloud Skills:** EC2, S3, EventBridge, Kinesis.
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Strands Agents](https://img.shields.io/badge/Strands-AI_Agents-FF4F00?style=for-the-badge&logo=robotframework&logoColor=white)
+
+<br/>
+
+## 📫 Connect with me
+
+<a href="mailto:brayanstewartgur@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://twitter.com/@BesgoXD">
-  <img align="left" alt="Brayan's Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/brayan-stewart-guerrero-ordo%C3%B1ez/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.linkedin.com/in/brayan-stewart-guerrero-ordo%C3%B1ez-2950a6225/">
-  <img align="left" alt="Brayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/_besgo_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-<br />
-<br />
-
-## ⚙ My stack technologies
-|Programming languages|Frontend|Backend|
-|---|---|---|
-|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E") ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)|![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Spring](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)|
-
-|Cloud|Dev Tools|Desing
-|---|---|---|
-|![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)|![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white") ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)|
-
-## 📈My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuerreroXD&show_icons=true&theme=tokyonight)](https://github.com/BrayanGuerreroXd/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanGuerreroXD&show_icons=true&theme=tokyonight)|
-|---|---|
